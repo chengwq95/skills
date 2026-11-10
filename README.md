@@ -37,3 +37,7 @@ Skills are self-contained folders of instructions, scripts, and resources that t
 ## Disclaimer
 
 These skills are personal, evolving tools. Review and test them in your own environment before relying on them for critical, financial, legal, medical, or production decisions.
+
+## License
+
+[MIT](LICENSE)
